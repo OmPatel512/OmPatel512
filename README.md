@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmPatel512
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Open source
 - 📫 How to reach me email:omsuperson@gmail.com
 
