@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmPatel512
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Open source
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning DL
+- 💞️ I’m looking for ML internships
 - 📫 How to reach me email:omsuperson@gmail.com
 
 <!---
